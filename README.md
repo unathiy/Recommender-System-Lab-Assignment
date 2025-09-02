@@ -10,7 +10,7 @@ By the end of the lab, I:
 - Evaluated recommendations using cosine similarity.
 
 ---
-
+## Jupyter Notebook file is attached
 ## Dataset
 The dataset is `movies_dataset.csv` and contains:
 - `ID` → ID of the user  
